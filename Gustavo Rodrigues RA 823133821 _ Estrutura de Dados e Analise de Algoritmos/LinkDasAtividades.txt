@@ -1,2 +1,3 @@
 Lista de exercicios: https://github.com/GustavoSoaresRodrigues2/lista-exercicio-java.git
 
+Lista de exercicios 2: https://github.com/GustavoSoaresRodrigues2/Lista02-Java.git
